@@ -1,6 +1,6 @@
 ## Installation
 #### Clone the repository:
-- git clone https://github.com/yourusername/NepalAddressInfo.git
+- git clone https://github.com/KapilSinghThakuri/NepalAdminExplorer.git
 
 #### Navigate to the project directory:
 - cd NepalAddressInfo
